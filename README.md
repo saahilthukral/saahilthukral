@@ -1,3 +1,8 @@
+#Introduction
+'''python
+print('Hello')
+'''
+
 ### Hi there 👋
 My name is Saahil Thukral and I am working hard to become a machine learning engineer and data scientist. I am just starting out and I have started learning Python and R for this purpose. I am also planning to get into JULIA after learning both those languages
 
