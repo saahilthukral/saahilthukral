@@ -10,6 +10,7 @@ My name is Saahil Thukral and I am working hard to become a machine learning eng
 
 
 😄 Pronouns: He/Him
+
 ⚡ Fun fact: I really like listening to songs from all genres, particularly hip hop & R&B, and my favourite artist is The Weeknd
 <!--
 **saahilthukral/saahilthukral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
