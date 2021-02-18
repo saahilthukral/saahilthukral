@@ -7,7 +7,7 @@ My name is Saahil Thukral and I am working hard to become a machine learning eng
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://instagram.com/saahil_thukral/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://instagram.com/saahil_thukral/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://linkedin.com/in/saahil-thukral-44a0771b4/)
 
 
 
