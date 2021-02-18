@@ -4,9 +4,8 @@
 ### Who am I ?
 My name is Saahil Thukral and I am working hard to become a machine learning engineer and data scientist. I am just starting out and I have started learning Python and R for this purpose. I am also planning to get into JULIA after learning both those languages. I will also begin my undergraduate program at the University of Toronto Scarborough.
 
-[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+[](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=r&logoColor=white&color=4AB197)
 ...
 
 <details>
