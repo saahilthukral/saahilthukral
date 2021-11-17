@@ -9,6 +9,7 @@ My name is Saahil Thukral and I am working hard to become a machine learning eng
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://linkedin.com/in/saahil-thukral-44a0771b4/)
 
+I have recently shifted from Windows to Ubuntu as my distro, and even though, there are some things I like about Windows, the terminal, for me, is much more (ironically) easy and fun to use
 
 
 😄 Pronouns: He/Him
